@@ -46,10 +46,15 @@
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Análise e Desenvolvimento de Sistemas.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+
+ - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+
 - :basketball: &nbsp; Meus hobbies são futebol, musculação, games e musica.<br />
+
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:leandrodias55@hotmail.com" target="_blank">e-mail</a> pessoal.<br />
+
 - :page_facing_up: &nbsp; Veja meu <a href="file:///C:/Users/Usuario/OneDrive/Desktop/Curriculo%20Leandro%20%20D..pdf" target="_blank">Currículo</a> para mais informações.
 </p>
 </div>
