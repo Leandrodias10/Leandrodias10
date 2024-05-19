@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="headertech" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="header" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
