@@ -68,7 +68,7 @@
 -----
 
 
-<img height="20" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="100" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leandrodias10&theme=github_dark"/>
