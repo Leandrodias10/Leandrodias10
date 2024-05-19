@@ -76,10 +76,6 @@
 
 -----
 
-<div>
-<div>
-<details>
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="left" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-
 
 -----
