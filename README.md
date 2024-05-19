@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/Leandrodias_10/" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Leandrodias10/" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="linkedin.com/in/leandro-dias-3b3b12289" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
