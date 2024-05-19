@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://github.com/Leandrodias10" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:Leandrodias10@gmail.com" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:leandrodias55@hotmail.com" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531991872570" target="_blank"><img src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
