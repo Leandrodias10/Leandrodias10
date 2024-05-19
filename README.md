@@ -86,12 +86,7 @@
 <tr>
 <td>
 <a href="mailto:leandrodias55@hotmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/github-header-image.png?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/Leandrodias10" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
+
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
