@@ -50,7 +50,7 @@
 - :basketball: &nbsp; Meus hobbies são futebol, musculação, games e musica.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:leandrodias55@hotmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu <a href="file:///C:/Users/Usuario/OneDrive/Desktop/Curriculo%20Leandro%20%20D..pdf" target="_blank">Currículo</a> para mais informações.
 </p>
 </div>
 </div>
