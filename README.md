@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Leandro</code>, tenho 27 anos, moro em BH. Atualmente sou <code>estudante</code> no curso de Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, sou o <code>Leandro</code>, tenho 27 anos, moro em BH. Atualmente sou <code>estudante</code>, no segundo peíodo de Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
