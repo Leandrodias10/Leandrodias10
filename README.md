@@ -43,6 +43,8 @@
 
 <img height="20" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
+
+
 <div align="justify">
 <p> 
  
