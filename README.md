@@ -38,7 +38,7 @@
 -----
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/giphy.gif?raw=true" width="310px" height="280px"/>
+<img align="right" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/giphy.gif?raw=true" width="290px" height="280px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/Leandrodias10/Leandrodias10/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
